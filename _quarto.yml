@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Solichatus Zahroh"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - projects.qmd
+      - CV.qmd
+    tools:
+      - icon: twitter
+        href: https://twitter.com/solichatuszhrh/
+      - icon: github
+        href: https://github.com/solichatuszhrh/
+  page-footer:
+    right: "Built with [Quarto](https://quarto.org/)"
+    left: "&copy; Copyright 2023, SOLICHATUS ZAHROH"
+
+format:
+  html:
+    theme: sketchy
+    css: style.css
+    toc: true
+
+editor: source
