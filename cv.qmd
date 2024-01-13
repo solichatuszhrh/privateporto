@@ -1,5 +1,0 @@
----
-title: "CV"
----
-
-Please kindly check my full CV [here](CV.pdf)
