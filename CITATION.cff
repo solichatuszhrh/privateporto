@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "If you use this template, please cite it as below."
+authors:
+- family-names: Zahroh
+  given-names: Solichatus
+orcid: https://orcid.org/0009-0009-7911-0256
+title:solichatuszhrh/privateporto: First release
+version: v0.1.0
+date-released: 2024-01-13
+                                
